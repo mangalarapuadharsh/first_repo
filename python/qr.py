@@ -6,6 +6,7 @@ img.save(file)
 print("qr generator successfully created at "+file)
 a=int(input("enter 1 to open the file:"))
 # print("helolo wolrd")
+print("this is a test message")
 
 if a==1:
     import os
