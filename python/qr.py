@@ -8,6 +8,9 @@ a=int(input("enter 1 to open the file:"))
 # print("helolo wolrd")
 print("this is a test message")
 b=int(input("enter the value"))
+if(b==1)
+{
+    print("you updated the qr code ")
 
 if a==1:
     import os
